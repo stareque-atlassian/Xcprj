@@ -1,6 +1,6 @@
 import Foundation
 import XCTest
-@testable import XcodeProj
+@testable import Xcprj
 
 final class PBXBuildPhaseTests: XCTestCase {
     var subject: PBXBuildPhase!

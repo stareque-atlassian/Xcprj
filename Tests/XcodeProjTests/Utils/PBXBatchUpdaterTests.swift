@@ -1,7 +1,7 @@
 import Foundation
 import PathKit
 import XCTest
-@testable import XcodeProj
+@testable import Xcprj
 
 class PBXBatchUpdaterTests: XCTestCase {
     func test_addFile_useMainProjectGroup() {

@@ -1,6 +1,6 @@
 import Foundation
 
-@testable import XcodeProj
+@testable import Xcprj
 
 extension PBXFileReference {
     static func fixture(sourceTree _: PBXSourceTree = .group,
